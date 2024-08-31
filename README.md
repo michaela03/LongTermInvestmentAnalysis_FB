@@ -33,5 +33,5 @@ Ensure you have the following installed:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/MetaStockAnalysis.git
+   git clone https://github.com/michaela03/MetaStockAnalysis.git
    cd MetaStockAnalysis
